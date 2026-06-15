@@ -13,18 +13,6 @@ const quizData = [
     "explanation": "Ovotesticular DSD is characterized by the presence of both ovarian and testicular tissue. It typically presents with ambiguous genitalia, often with some degree of masculinization, and most commonly occurs in individuals with a 46,XX karyotype. This distinguishes it from androgen insensitivity (which is 46,XY), CAH (which lacks testicular tissue), and chromosomal disorders like Klinefelter (47,XXY) or Turner (45,X)."
   },
   {
-    "question": "In bluey, he was upset because someone mistook his dragon for an egg. His mom was worried that he lost his confidence and would not draw the dragon. In an attempt to make bluey feel better she has him shoot a memory spell at his dads butt. What did the dad love to draw until some dickhead said that the drawing was not good?",
-    "choices": [
-      "Horses",
-      "Cars",
-      "Dragons",
-      "Eggs",
-      "The ovarian cycle"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Some asshole 7 year old told Bluey’s dad that he could not draw a car. That brought down the dads confidence and he never tried to draw a car again. Be like Bluey’s mom, not the dick that did Bluey’s dad dirty."
-  },
-  {
     "question": "A 2-week-old male infant presents with a scrotal mass that transilluminates on physical exam. Ultrasound confirms a fluid-filled sac around the testis. Which of the following embryological processes most likely failed to occur?",
     "choices": [
       "Formation of the processus vaginalis",
